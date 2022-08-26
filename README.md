@@ -9,9 +9,9 @@
 O site é composto por 5 seções:
 
 - **Home:** Temos uma breve apresentação;
-- **About:** Eu tenho uma descrição contando um pouco sobre quem eu sou;
-- **Experience:** Procuro minha primeira oportunidade;
-- **Projects:** Apresenta alguns projetos desenvolvidos com link direto para os respectivos códigos no GitHub;
+- **Sobre:** Eu tenho uma descrição contando um pouco sobre quem eu sou;
+- **Experiência:** Procuro minha primeira oportunidade;
+- **Projetos:** Apresenta alguns projetos desenvolvidos com link direto para os respectivos códigos no GitHub;
 
 Além disso, o site está disponível em Português e Inglês
 
