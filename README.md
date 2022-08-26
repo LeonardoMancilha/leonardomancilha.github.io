@@ -13,7 +13,7 @@ O site é composto por 5 seções:
 - **Experience:** Procuro minha primeira oportunidade;
 - **Projects:** Apresenta alguns projetos desenvolvidos com link direto para os respectivos códigos no GitHub;
 
-Além do site está disponível em Português e Inglês
+Além disso, o site está disponível em Português e Inglês
 
 ---
 
@@ -24,7 +24,7 @@ The website is composted into 5 sections:
 - **Experience:** I'm looking for my first opportunity;
 - **Projects:** It presents some developed projects with a direct link to the respective codes on GitHub;
 
-In addition to the website is available in Portuguese and English
+In addition, the website is available in Portuguese and English
 
 ---
 
